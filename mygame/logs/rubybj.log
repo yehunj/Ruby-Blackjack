@@ -1,0 +1,22 @@
+* 000000 [Engine] Log started at 2022/9/23 0:39:0
+* 000000 [Engine] This copy of the engine is git hash 933bc816cf3a720f94fbd070fb5d94dba6c57418, built on Sep 17 2022, at 13:08:59
+* 000000 [Engine] Platform: Windows
+* 000000 [Engine] 
+* 000000 [Engine] *******************************************************************************************
+* 000000 [Engine] *** This is the Standard license build!                                                 ***
+* 000000 [Engine] *** Get more with an Indie or Pro license such as C extensions, mobile dev, and VR dev! ***
+* 000000 [Engine] *** Details at http://dragonruby.org/toolkit/game#purchase                              ***
+* 000000 [Engine] *******************************************************************************************
+* 000000 [Engine] 
+- 000000 [Engine] Game Dir: (null)
+- 000000 [Engine] Game ID: rubybj
+- 000000 [Engine] Game title: Ruby Blackjack
+- 000000 [Engine] Game version: 1.0
+- 000000 [Engine] Game package ID: org.yehunj.rubybj
+- 000000 [Engine] Game Developer ID: yehunj
+- 000000 [Engine] Game Developer title: Ye Hun
+- 000000 [Engine] Production build: no
+? 000000 [Engine] RNG seed has been set to 1663907940.
+- 000000 [Engine] Janitor is using 3 threads.
+? 000000 [Engine] Marked app/main.rb for reload. (-1)
+* 000001 [Engine] Logging shutting down
